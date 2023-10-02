@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a university assignment orginally assigned on the MSc Computing, Distributed and Cloud Computing module for building a distributed data storage system for an estate agency. The goal is to develop a system that allows users to access, store, and update information related to properties, including houses and apartments.
+This project is a university assignment to build a distributed data storage system for an estate agency. The goal is to develop a system that allows users to access, store, and update information related to properties, including houses and apartments.
 
 ## Project Objectives
 
