@@ -30,7 +30,7 @@ Install requirements.txt and run estate_agency_test to test the distributed syst
 
 
 ## License
-
+Apache 2.0
 
 
 ## Acknowledgments
